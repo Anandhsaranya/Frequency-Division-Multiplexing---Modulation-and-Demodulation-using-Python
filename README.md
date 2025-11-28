@@ -62,6 +62,12 @@ figure(3); subplot(3,2,1); plot(t,dm1); title("Recovered Signal 1"); subplot(3,2
 
 ![WhatsApp Image 2025-11-26 at 9 51 12 PM](https://github.com/user-attachments/assets/52aaa09c-302a-4b96-b6db-4062b4968e46)
 
+## Calculation:
+![WhatsApp Image 2025-11-28 at 9 53 04 AM](https://github.com/user-attachments/assets/8a2eff55-07d9-4ead-8519-b24e0e7851a0)
+![WhatsApp Image 2025-11-28 at 9 53 43 AM](https://github.com/user-attachments/assets/ce5ddbf0-2ad4-4bf2-b696-854528490565)
+
+
+
 ## Result:
 
 FDM experiment was successfully simulated and verified using Python. The message signals were multiplexed and perfectly recovered.
